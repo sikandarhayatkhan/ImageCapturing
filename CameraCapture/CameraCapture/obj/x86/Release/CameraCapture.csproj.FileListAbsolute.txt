@@ -1,0 +1,12 @@
+C:\Users\sherazi\Desktop\CameraCapture\CameraCapture\obj\x86\Release\CameraCapture.CameraCapture.resources
+C:\Users\sherazi\Desktop\CameraCapture\CameraCapture\obj\x86\Release\CameraCapture.Properties.Resources.resources
+C:\Users\sherazi\Desktop\CameraCapture\CameraCapture\obj\x86\Release\CameraCapture.csproj.GenerateResource.Cache
+C:\Users\sherazi\Desktop\CameraCapture\CameraCapture\bin\Release\CameraCapture.exe
+C:\Users\sherazi\Desktop\CameraCapture\CameraCapture\bin\Release\CameraCapture.pdb
+C:\Users\sherazi\Desktop\CameraCapture\CameraCapture\bin\Release\Emgu.CV.dll
+C:\Users\sherazi\Desktop\CameraCapture\CameraCapture\bin\Release\Emgu.CV.UI.dll
+C:\Users\sherazi\Desktop\CameraCapture\CameraCapture\bin\Release\Emgu.Util.dll
+C:\Users\sherazi\Desktop\CameraCapture\CameraCapture\obj\x86\Release\CameraCapture.exe
+C:\Users\sherazi\Desktop\CameraCapture\CameraCapture\obj\x86\Release\CameraCapture.pdb
+C:\Users\sherazi\Desktop\CameraCapture\CameraCapture\bin\Release\CameraCapture.exe.config
+C:\Users\sherazi\Desktop\CameraCapture\CameraCapture\bin\Release\Emgu.CV.UI.xml

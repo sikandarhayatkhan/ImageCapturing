@@ -1,0 +1,75 @@
+C:\Users\sherazi\AppData\Local\Temporary Projects\CameraCapture\bin\Debug\CameraCapture.exe
+C:\Users\sherazi\AppData\Local\Temporary Projects\CameraCapture\bin\Debug\CameraCapture.pdb
+C:\Users\sherazi\AppData\Local\Temporary Projects\CameraCapture\bin\Debug\Emgu.CV.dll
+C:\Users\sherazi\AppData\Local\Temporary Projects\CameraCapture\bin\Debug\Emgu.CV.UI.dll
+C:\Users\sherazi\AppData\Local\Temporary Projects\CameraCapture\bin\Debug\Emgu.Util.dll
+C:\Users\sherazi\AppData\Local\Temporary Projects\CameraCapture\bin\Debug\ZedGraph.dll
+C:\Users\sherazi\AppData\Local\Temporary Projects\CameraCapture\bin\Debug\Emgu.CV.xml
+C:\Users\sherazi\AppData\Local\Temporary Projects\CameraCapture\bin\Debug\Emgu.CV.UI.xml
+C:\Users\sherazi\AppData\Local\Temporary Projects\CameraCapture\bin\Debug\Emgu.Util.xml
+C:\Users\sherazi\AppData\Local\Temporary Projects\CameraCapture\obj\x86\Debug\CameraCapture.CameraOutput.resources
+C:\Users\sherazi\AppData\Local\Temporary Projects\CameraCapture\obj\x86\Debug\CameraCapture.Properties.Resources.resources
+C:\Users\sherazi\AppData\Local\Temporary Projects\CameraCapture\obj\x86\Debug\CameraCapture.csproj.GenerateResource.Cache
+C:\Users\sherazi\AppData\Local\Temporary Projects\CameraCapture\obj\x86\Debug\CameraCapture.exe
+C:\Users\sherazi\AppData\Local\Temporary Projects\CameraCapture\obj\x86\Debug\CameraCapture.pdb
+C:\Users\sherazi\Desktop\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.exe
+C:\Users\sherazi\Desktop\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.pdb
+C:\Users\sherazi\Desktop\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.csprojResolveAssemblyReference.cache
+C:\Users\sherazi\Desktop\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.CameraCapture.resources
+C:\Users\sherazi\Desktop\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.Properties.Resources.resources
+C:\Users\sherazi\Desktop\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.csproj.GenerateResource.Cache
+C:\Users\sherazi\Desktop\CameraCapture\CameraCapture\bin\Debug\CameraCapture.exe
+C:\Users\sherazi\Desktop\CameraCapture\CameraCapture\bin\Debug\CameraCapture.pdb
+C:\Users\sherazi\Desktop\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.dll
+C:\Users\sherazi\Desktop\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.dll
+C:\Users\sherazi\Desktop\CameraCapture\CameraCapture\bin\Debug\Emgu.Util.dll
+C:\Users\sherazi\Desktop\CameraCapture\CameraCapture\bin\Debug\ZedGraph.dll
+C:\Users\sherazi\Desktop\CameraCapture\CameraCapture\bin\Debug\CameraCapture.exe.config
+C:\Users\sherazi\Desktop\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.xml
+E:\Tutorials\Programming languages\programming practice\c#\CameraCapture\CameraCapture\bin\Debug\CameraCapture.exe.config
+E:\Tutorials\Programming languages\programming practice\c#\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.exe
+E:\Tutorials\Programming languages\programming practice\c#\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.pdb
+E:\Tutorials\Programming languages\programming practice\c#\CameraCapture\CameraCapture\bin\Debug\CameraCapture.exe
+E:\Tutorials\Programming languages\programming practice\c#\CameraCapture\CameraCapture\bin\Debug\CameraCapture.pdb
+E:\Tutorials\Programming languages\programming practice\c#\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.dll
+E:\Tutorials\Programming languages\programming practice\c#\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.dll
+E:\Tutorials\Programming languages\programming practice\c#\CameraCapture\CameraCapture\bin\Debug\Emgu.Util.dll
+E:\Tutorials\Programming languages\programming practice\c#\CameraCapture\CameraCapture\bin\Debug\ZedGraph.dll
+E:\Tutorials\Programming languages\programming practice\c#\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.xml
+E:\Tutorials\Programming languages\programming practice\c#\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.csprojResolveAssemblyReference.cache
+E:\Tutorials\Programming languages\programming practice\c#\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.CameraCapture.resources
+E:\Tutorials\Programming languages\programming practice\c#\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.Properties.Resources.resources
+E:\Tutorials\Programming languages\programming practice\c#\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.csproj.GenerateResource.Cache
+E:\Tutorials\Programming languages\programming practice\c#\Camera(emgucv)\CameraCapture\CameraCapture\bin\Debug\CameraCapture.exe.config
+E:\Tutorials\Programming languages\programming practice\c#\Camera(emgucv)\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.exe
+E:\Tutorials\Programming languages\programming practice\c#\Camera(emgucv)\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.pdb
+E:\Tutorials\Programming languages\programming practice\c#\Camera(emgucv)\CameraCapture\CameraCapture\bin\Debug\CameraCapture.exe
+E:\Tutorials\Programming languages\programming practice\c#\Camera(emgucv)\CameraCapture\CameraCapture\bin\Debug\CameraCapture.pdb
+E:\Tutorials\Programming languages\programming practice\c#\Camera(emgucv)\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.dll
+E:\Tutorials\Programming languages\programming practice\c#\Camera(emgucv)\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.dll
+E:\Tutorials\Programming languages\programming practice\c#\Camera(emgucv)\CameraCapture\CameraCapture\bin\Debug\Emgu.Util.dll
+E:\Tutorials\Programming languages\programming practice\c#\Camera(emgucv)\CameraCapture\CameraCapture\bin\Debug\ZedGraph.dll
+E:\Tutorials\Programming languages\programming practice\c#\Camera(emgucv)\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.xml
+E:\Tutorials\Programming languages\programming practice\c#\Camera(emgucv)\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.CameraCapture.resources
+E:\Tutorials\Programming languages\programming practice\c#\Camera(emgucv)\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.Properties.Resources.resources
+E:\Tutorials\Programming languages\programming practice\c#\Camera(emgucv)\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.csproj.GenerateResource.Cache
+E:\Tutorials\Programming languages\programming practice\c#\Camera(emgucv)\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.csprojAssemblyReference.cache
+E:\Tutorials\Programming languages\programming practice\c#\Camera(emgucv)\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.csproj.CoreCompileInputs.cache
+E:\Tutorials\Programming languages\programming practice\c#\Camera(emgucv)\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.csproj.CopyComplete
+C:\Users\sikandar\Downloads\CameraCapture\CameraCapture\bin\Debug\CameraCapture.exe.config
+C:\Users\sikandar\Downloads\CameraCapture\CameraCapture\bin\Debug\CameraCapture.exe
+C:\Users\sikandar\Downloads\CameraCapture\CameraCapture\bin\Debug\CameraCapture.pdb
+C:\Users\sikandar\Downloads\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.dll
+C:\Users\sikandar\Downloads\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.dll
+C:\Users\sikandar\Downloads\CameraCapture\CameraCapture\bin\Debug\Emgu.Util.dll
+C:\Users\sikandar\Downloads\CameraCapture\CameraCapture\bin\Debug\ZedGraph.dll
+C:\Users\sikandar\Downloads\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.xml
+C:\Users\sikandar\Downloads\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.csprojAssemblyReference.cache
+C:\Users\sikandar\Downloads\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.CameraCapture.resources
+C:\Users\sikandar\Downloads\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.Properties.Resources.resources
+C:\Users\sikandar\Downloads\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.csproj.GenerateResource.cache
+C:\Users\sikandar\Downloads\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.csproj.CopyComplete
+C:\Users\sikandar\Downloads\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.exe
+C:\Users\sikandar\Downloads\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.pdb
+C:\Users\sikandar\Downloads\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.home.resources
+C:\Users\sikandar\Downloads\CameraCapture\CameraCapture\obj\x86\Debug\CameraCapture.detail.resources
